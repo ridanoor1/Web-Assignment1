@@ -3,6 +3,7 @@ Question 1:
 In this question you must build a one-page basic resume by using HTML and CSS. You must
 include an external CSS file name style.css.
 Your resume should include the following:
+***
 *Your name in the heading of the page.
 *Your university email id.
 *Your education.
@@ -10,7 +11,7 @@ Your resume should include the following:
 *List of your key skills.
 *A list of your personal projects.
 *Your display photo.
-
+***
 Question 2:
 Your task is to design a cross-browser compatible, responsive layout using CSS for browsing
 catalogue of a freelancing platform. Screenshots are given below for illustration. 
