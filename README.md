@@ -29,51 +29,63 @@ Requirements:
 <br>
 1. Design a web form using HTML and CSS for collecting job application
 information. Include fields for the applicant’s:
-
+<br>
 1.1 Personal Information:
- Full Name (First Name, Last Name)
- Contact Information (Phone Number, Email Address)
- Address (Street, City, State, ZIP Code)
-
+Full Name (First Name, Last Name),
+Contact Information (Phone Number, Email Address),
+Address (Street, City, State, ZIP Code)
+<br>
 1.2 Resume and Cover Letter:
- Upload Resume (File Upload)
- Cover Letter (Text area)
+Upload Resume (File Upload),
+Cover Letter (Text area)
+<br>
 1.3 Education:
- Highest Level of Education Attained
- Name of School/University
- Major/Area of Study
- Graduation Year
- Employment History:
+Highest Level of Education Attained,
+Name of School/University,
+Major/Area of Study,
+Graduation Year,
+Employment History
+<br>
 1.4 Previous Job Titles
- Company Names
- Employment Dates
- Job Responsibilities
+Company Names,
+Employment Dates,
+Job Responsibilities
+<br>
 1.5 Skills:
- Relevant Skills (e.g., programming languages, software proficiency)
- Certifications
+Relevant Skills (e.g., programming languages, software proficiency),
+Certifications
+<br>
 1.6 Availability:
- Start Date
- Preferred Work Schedule
- Willingness to Relocate
+Start Date,
+Preferred Work Schedule,
+Willingness to Relocate
+<br>
 1.7 References:
- Reference Name
- Reference Contact Information
- Relationship to Applicant
+Reference Name,
+Reference Contact Information,
+Relationship to Applicant
+<br>
 1.8 Additional Questions:
- Why do you want to work for this company?
+Why do you want to work for this company?
+<br>
 1.9 Consent and Agreement:
- Checkbox for agreeing to terms and conditions
- Privacy Policy acknowledgment
+<br>
+Checkbox for agreeing to terms and conditions
+<br>
+check box Privacy Policy acknowledgment
+<br>
 2. Implement client-side validation using JavaScript to ensure that required fields
 are filled out correctly (e.g., email format validation, phone number format
 validation).
-
+<br>
 3. When all required fields are filled out correctly and the user clicks the submit
 button, only then the data should be processed and stored. You can simulate this
 process by logging the data to the console.
+<br>
 4. At the end of the web page, include a button labeled "View Applications as
 Table" or similar. When clicked, this button should transform the submitted
 application data into a table format.
+<br>
 5. The table should display all submitted applications in rows, with each column
 representing different fields (e.g., Name, Email, Phone Number, Resume, Cover
 Letter).
