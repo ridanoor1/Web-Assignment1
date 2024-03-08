@@ -3,20 +3,21 @@ Question 1:
 In this question you must build a one-page basic resume by using HTML and CSS. You must
 include an external CSS file name style.css.
 Your resume should include the following:
-***
-*Your name in the heading of the page.
-*Your university email id.
-*Your education.
-*Work experience (if any).
-*List of your key skills.
-*A list of your personal projects.
-*Your display photo.
+
+Your name in the heading of the page,
+Your university email id,
+Your education,
+Work experience (if any),
+List of your key skills,
+A list of your personal projects,
+Your display photo.
 ***
 Question 2:
 Your task is to design a cross-browser compatible, responsive layout using CSS for browsing
 catalogue of a freelancing platform. Screenshots are given below for illustration. 
 (courtesy: https://www.peopleperhour.com/)
 Note: You must include an external CSS file name style.css.
+***
 
 Question 3:
 Develop a web form for job applications. The form should collect necessary
@@ -25,6 +26,7 @@ submission. Additionally, at the end of the web page, there should be a button t
 when clicked, transforms the submitted application data into a table format for easy
 review.
 Requirements:
+<br>
 1. Design a web form using HTML and CSS for collecting job application
 information. Include fields for the applicant’s:
 
